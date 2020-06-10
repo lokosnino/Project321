@@ -2,56 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15b02d64-ed62-481f-a289-22fcfcb8f1dd" name="Default Changelist" comment="updated different app , with sql dbs.">
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQL/exportdb.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hs_err_pid7841.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/About.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/About.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/AllStudent.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/AllStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/BookForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/BookForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/DeleteBook.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/DeleteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/IssueBookForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/IssueBookForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/LibrarianDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/LibrarianLogin.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/LibrarianLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/LibrarianSuccess.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/LibrarianSuccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/MainLibrary.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/MainLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/NewView.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/NewView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/ReturnBookForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/ReturnBookForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/TransBookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserLogin.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserLoginSuccess.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserLoginSuccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserView.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserViewBook.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UserViewBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/UsersDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/ViewBook.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainlibrary/ViewBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project321.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project321.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project321.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/Project321.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project321.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Project321.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjektiLibraria/sample/sample.fxml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,7 +25,12 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="DefaultGradleProjectSettings">
@@ -105,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SQL/exportdb.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2358">
-              <caret line="131" column="28" selection-start-line="131" selection-start-column="28" selection-end-line="131" selection-end-column="28" />
+            <state relative-caret-position="-632">
+              <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -123,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/mainlibrary/DB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="31" column="69" selection-start-line="30" selection-start-column="72" selection-end-line="31" selection-end-column="69" />
+            <state relative-caret-position="414">
+              <caret line="30" column="40" selection-start-line="27" selection-start-column="44" selection-end-line="30" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -204,7 +163,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,6 +190,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,10 +199,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/com.mysql.jdbc_5.1.5.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -296,7 +255,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="UserLogin" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mainlibrary.UserLogin" />
       <module name="Project321" />
       <extension name="coverage">
@@ -337,7 +296,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UserLogin" />
         <item itemvalue="Application.LibrarianLogin" />
         <item itemvalue="Application.ViewBook" />
         <item itemvalue="Application.NewView" />
@@ -362,11 +320,12 @@
       <workItem from="1591718697789" duration="3863000" />
       <workItem from="1591750656988" duration="2159000" />
       <workItem from="1591752841408" duration="48000" />
+      <workItem from="1591753284139" duration="1927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9003000" />
+    <option name="totallyTimeSpent" value="10930000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -379,8 +338,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.53534704" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13239075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -389,7 +349,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36473754" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36473754" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -408,7 +368,7 @@
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32969153" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
@@ -640,20 +600,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/exportdb.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2358">
-          <caret line="131" column="28" selection-start-line="131" selection-start-column="28" selection-end-line="131" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mainlibrary/DeleteBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mainlibrary/ViewBook.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
@@ -681,10 +627,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SQL/exportdb.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-632">
+          <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mainlibrary/DeleteBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/mainlibrary/DB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="31" column="69" selection-start-line="30" selection-start-column="72" selection-end-line="31" selection-end-column="69" />
+        <state relative-caret-position="414">
+          <caret line="30" column="40" selection-start-line="27" selection-start-column="44" selection-end-line="30" selection-end-column="40" />
         </state>
       </provider>
     </entry>
